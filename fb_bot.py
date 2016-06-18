@@ -1,7 +1,8 @@
 #Author:Atul Kumar
 #Date of creation:19/06/2016
 #PACKAGE:facebook,facepy
-#ABOUT:This script will comment and likes the post of particular fb page whose page_id is provided by user
+#ABOUT:This script will comment and likes the post of particular fb page or user whose page_id or user_id is provided by user
+#CAUTION:FB May detect that it's a bot and can block you..so go easy folks  lol!
 
 import facebook,facepy
 
